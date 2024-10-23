@@ -16,7 +16,7 @@ body {
     align-items: center;
 }
 /* esse é o css do video, pode subistituir a classe banner por qualquer outra */
-.banner video {
+.fundovideo video {
     position: fixed;
     top: 0;
     left: 0;
